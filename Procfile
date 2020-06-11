@@ -1,1 +1,0 @@
-web: python __index__.py
